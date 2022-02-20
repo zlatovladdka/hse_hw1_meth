@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in SRR3824222_1_bismark_bt2_pe.bam:	7039016
+Total number duplicated alignments removed:	205258 (2.92%)
+Duplicated alignments were found at:	164796 different position(s)
+
+Total count of deduplicated leftover sequences: 6833758 (97.08% of total)
+
