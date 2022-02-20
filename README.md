@@ -19,3 +19,12 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 ```
 !ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 ```
+
+### M-bias plot
+
+
+### Гистограммы уровня метилирования
+
+
+### Визуализация уровня метилирования и покрытия
+
