@@ -22,14 +22,15 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 ### M-bias plot
 
-![6473_1](img/6473_1.png | width=100)
-![6473_2](img/6473_2.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="img/6473_1.png" width="200" height="400" />
 
-![4222_1](img/4222_1.png)
-![4222_2](img/4222_2.png)
+![](img/6473_2.png)
 
-![6475_1](img/6475_1.png)
-![6475_2](img/6475_2.png)
+![](img/4222_1.png)
+![](img/4222_2.png)
+
+![](img/6475_1.png)
+![](img/6475_2.png)
 
 ### Гистограммы уровня метилирования
 
