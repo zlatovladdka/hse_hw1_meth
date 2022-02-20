@@ -32,11 +32,11 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 ### Гистограммы уровня метилирования
 
-![](img/6473.png)
-![](img/4222.png)
-![](img/6475.png)
+![](img/5836473.png)
+![](img/3824222.png)
+![](img/5836475.png)
 
 ### Визуализация уровня метилирования и покрытия
 
-![](img/meth.png)
-![](img/coveraage.png)
+![](img/img_meth.png)
+![](img/img_coveraage.png)
