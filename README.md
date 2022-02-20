@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 ### M-bias plot
 
-![6473_1](img/6473_1.png){:height="36px" width="36px"}
+![6473_1](img/6473_1.png){height="36px" width="36px"}
 ![6473_2](img/6473_2.png)
 
 ![4222_1](img/4222_1.png)
