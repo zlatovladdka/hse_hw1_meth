@@ -22,8 +22,8 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 ### M-bias plot
 
-<img src="img/6473_1.png" data-canonical-src="img/6473_1.png" width="400" height="200" />
-<img src="img/6473_2.png" data-canonical-src="img/6473_2.png" width="400" height="200" />
+<img src="img/6473_1.png" data-canonical-src="img/6473_1.png" width="400" height="200" >
+<img src="img/6473_2.png" data-canonical-src="img/6473_2.png" width="400" height="200" >
 ![](img/6473_2.png)
 
 ![](img/4222_1.png)
