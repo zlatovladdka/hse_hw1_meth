@@ -12,3 +12,10 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 | 8 Cell | 1090 | 464 | 18.31% |
 | Epiblast | 2328 | 1062 | 2.92% |
 | ICM | 1456 | 630 | 9.08% |
+
+
+### Скрипт для параллельной дедупликации
+
+```
+!ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+```
