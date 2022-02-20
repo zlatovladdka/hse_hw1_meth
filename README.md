@@ -5,7 +5,11 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 | BS | RNA |
 | :-: | :-: |
-| ![](img/6473_1.png) | ![](img/6473_1.png) | 
+| ![](img/bs_basic.png) | ![](img/rna_basic.png) | 
+| ![](img/bs_seq_cont.png) | ![](img/rna_seq_cont.png) | 
+| ![](img/bs_gc.png) | ![](img/rna_gc.png) | 
+| ![](img/bs_dup.png) | ![](img/rna_dup.png) | 
+
 
 ## Часть 2
 
