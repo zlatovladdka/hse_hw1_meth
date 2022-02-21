@@ -3,7 +3,7 @@ https://colab.research.google.com/drive/10p2Cl654V4QIH0AIC-N_-KPiPdcWW765?usp=sh
 
 ## Часть 1
 
-| BS | RNA |
+| Bisulfite | RNA |
 | :-: | :-: |
 | ![](img/bs_basic.png) | ![](img/rna_basic.png) | 
 | ![](img/bs_seq_cont.png) | ![](img/rna_seq_cont.png) | 
